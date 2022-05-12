@@ -1,0 +1,14 @@
+C:\Users\kamra\source\repos\Country City Population\Country City Population\bin\Debug\netcoreapp3.1\Country City Population.exe
+C:\Users\kamra\source\repos\Country City Population\Country City Population\bin\Debug\netcoreapp3.1\Country City Population.deps.json
+C:\Users\kamra\source\repos\Country City Population\Country City Population\bin\Debug\netcoreapp3.1\Country City Population.runtimeconfig.json
+C:\Users\kamra\source\repos\Country City Population\Country City Population\bin\Debug\netcoreapp3.1\Country City Population.runtimeconfig.dev.json
+C:\Users\kamra\source\repos\Country City Population\Country City Population\bin\Debug\netcoreapp3.1\Country City Population.dll
+C:\Users\kamra\source\repos\Country City Population\Country City Population\bin\Debug\netcoreapp3.1\Country City Population.pdb
+C:\Users\kamra\source\repos\Country City Population\Country City Population\obj\Debug\netcoreapp3.1\Country City Population.csproj.AssemblyReference.cache
+C:\Users\kamra\source\repos\Country City Population\Country City Population\obj\Debug\netcoreapp3.1\Country City Population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamra\source\repos\Country City Population\Country City Population\obj\Debug\netcoreapp3.1\Country City Population.AssemblyInfoInputs.cache
+C:\Users\kamra\source\repos\Country City Population\Country City Population\obj\Debug\netcoreapp3.1\Country City Population.AssemblyInfo.cs
+C:\Users\kamra\source\repos\Country City Population\Country City Population\obj\Debug\netcoreapp3.1\Country City Population.csproj.CoreCompileInputs.cache
+C:\Users\kamra\source\repos\Country City Population\Country City Population\obj\Debug\netcoreapp3.1\Country City Population.dll
+C:\Users\kamra\source\repos\Country City Population\Country City Population\obj\Debug\netcoreapp3.1\Country City Population.pdb
+C:\Users\kamra\source\repos\Country City Population\Country City Population\obj\Debug\netcoreapp3.1\Country City Population.genruntimeconfig.cache
